@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/add_new_expenses/static/css/main.2f6f5e48.css",
+    "main.js": "/add_new_expenses/static/js/main.bdb138d6.js",
+    "index.html": "/add_new_expenses/index.html",
+    "main.2f6f5e48.css.map": "/add_new_expenses/static/css/main.2f6f5e48.css.map",
+    "main.bdb138d6.js.map": "/add_new_expenses/static/js/main.bdb138d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f6f5e48.css",
+    "static/js/main.bdb138d6.js"
+  ]
+}
