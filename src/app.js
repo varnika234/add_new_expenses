@@ -39,6 +39,7 @@ const App=()=> {
     return (
         <div>
             <h2>Lets Get Started!!</h2>
+            <h2>Enter The crenditals and add your expenses to the list.</h2>
             <NewExpense onAddExpense={addExpensehandler}/>
            <Expenses item={expenses}/>
         </div>
